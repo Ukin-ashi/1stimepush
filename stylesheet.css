@@ -13,10 +13,10 @@ a {
 }
 
 .container{
+    max-width: 1200px;
     width: 100%;
-    max-width: 1300px;
     margin: 0 auto;
-    padding: 0 15px;
+    padding: 0 10px;
 }
 
 .header{
@@ -87,13 +87,13 @@ a {
     flex-wrap: wrap;
     justify-content: center;
     gap: 20px;
-    padding-bottom:5%;
 }
 .hukyou-contents {
     width: 45%;
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding:0 2%;
 }
 .contents-text {
     width: 100%;
@@ -105,14 +105,10 @@ a {
     clear:left;
 }
 .contact{
+    text-align: center;
     background-color:#f9f1f0;
     border-top:3px dotted #fff;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    padding: 40px 0;
-    text-align: center;
+    padding:20px 0;
 }
 .contact-title{
     padding:15px 0;
@@ -134,8 +130,6 @@ a {
     padding:10px 20px;
     border-radius: 6px;
     margin:10px 20px;
-    width: auto; /* 必要な幅だけ確保 */
-    text-align: center; /* 文字を中央揃え */
 }
 .btn:hover{
     opacity:1;
