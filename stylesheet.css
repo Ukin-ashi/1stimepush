@@ -114,10 +114,11 @@ a {
     padding:15px 0;
 }
 .contact-text{
-    padding-bottom:12px;
+    padding-bottom:17px;
 }
 .btn-wrapper{
     text-align: center;
+    padding-bottom:2%;
 }
 .fa-brands{
     margin-right:5px;
@@ -129,7 +130,6 @@ a {
     cursor: pointer;
     padding:10px 20px;
     border-radius: 6px;
-    margin:10px 20px;
 }
 .btn:hover{
     opacity:1;
@@ -146,6 +146,7 @@ a {
 .github{
     background-color: #dac9ff;
     box-shadow:0 5px #c6acfd;
+    margin-right:25px;
 }
 .footer{
     background-color: #c1d3f5;
