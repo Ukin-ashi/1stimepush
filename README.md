@@ -1,6 +1,6 @@
 ## My First Github Pages site🎉
 
-This project was created to comemmorate the **first week's progress** in learning HTML and CSS.
+This project was created to comemmorate the **1st week's progress** in learning HTML and CSS.
 Since this site is built **only with HTML and CSS**, it is quite simple.
 ## URL🔗
 [🔗View the site](https://ukin-ashi.github.io/1stimepush/)
